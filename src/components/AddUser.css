@@ -1,0 +1,34 @@
+.addUser{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    color: aliceblue;
+}
+.userForm{
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;  
+}
+
+.userForm > input{
+    margin: 10px 0;
+    border: none;
+    outline: 0;
+}
+
+.userForm> textarea{
+    margin: 10px 0;
+    border: none;
+    outline: 0;
+}
+
+button{
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #4267B2;
+    color: aliceblue;
+}

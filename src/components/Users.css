@@ -1,0 +1,10 @@
+.userData{
+    border:1px solid aliceblue;
+    margin: 15px;
+    padding: 15px;
+    background-color: black;
+    color: red;
+    border-radius: 5px;
+    min-width: 200px;
+
+}
